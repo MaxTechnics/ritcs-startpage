@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="200"
+   width="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1549"
+   sodipodi:docname="logo-app-ehb-course-service-shop.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1555">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1553" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="1018"
+     id="namedview1551"
+     showgrid="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-44.901279"
+     inkscape:cy="63.993162"
+     inkscape:window-x="2553"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1549"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect1352"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:23.9983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 51.46875,0.00182518 C 36.31243,-0.09190482 24.00001,3.7205782 24.00001,3.7205782 V 115.72061 c 0,0 23.44309,-8.07969 52.455084,0.10544 4.119345,-10.77343 10.905487,-20.243902 19.54492,-27.599619 V 19.720604 C 84.624996,4.0956212 66.624845,0.09548218 51.46875,0.00182518 Z m 97.0625,0 c -15.15609,0.09373 -33.15624,4.09379602 -44.53126,19.71877882 v 62.636712 c 10.4516,-6.556913 22.79531,-10.357417 36.00196,-10.357417 13.20605,0 25.54799,3.801033 35.99804,10.357417 V 3.7205782 c 0,0 -12.31253,-3.81244702 -27.46874,-3.71875302 z M 16,26.984251 1e-5,35.458859 V 149.40417 c 30.33245,-13.6055 50.820325,-17.13687 72.007789,-10.00584 0.04838,-5.50897 0.755226,-10.86486 2.048845,-15.99221 C 48.879963,116.26988 27.11635,121.97406 16,126.94716 Z m 168,0 v 61.240253 c 6.49697,5.531905 11.94531,12.258486 15.99999,19.837876 V 35.458859 Z m -44.00001,53.015623 c -33.13705,0 -60.000001,26.862996 -60.000001,59.999996 0,33.13706 26.862951,60.00001 60.000001,60.00001 33.13701,0 60,-26.86295 60,-60.00001 0,-33.137 -26.86299,-59.999996 -60,-59.999996 z m -5.12304,16.525417 3.90429,3.16989 -17.0742,20.246099 c -0.97561,-1.46351 -2.43923,-2.43965 -4.14648,-2.68358 h -0.24416 z m 10.48827,0.244158 17.07424,20.244131 c -1.7074,0.24416 -3.17106,0.97599 -4.39064,2.43946 l -0.24227,0.24416 -16.58789,-19.5137 z m -29.02538,22.439471 c 2.43916,0 4.39064,1.95141 4.39064,4.3906 0,2.43912 -1.95148,4.39064 -4.39064,4.39064 -2.43915,0 -4.39063,-2.19564 -4.39063,-4.63476 0,-2.43915 1.95148,-4.14648 4.39063,-4.14648 z m 46.83202,0 c 2.43915,0 4.39064,1.95141 4.39064,4.3906 0,2.43912 -1.95149,4.39064 -4.39064,4.39064 -2.43912,0 -4.3906,-1.95152 -4.3906,-4.39064 0,-2.43919 1.95148,-4.3906 4.3906,-4.3906 z m -62.19727,5.61131 h 9.02347 v 0.24416 c 0.73172,2.68301 3.1708,4.87695 6.34178,4.87695 3.17084,0 5.61007,-2.19394 6.34179,-4.87695 v -0.24416 h 34.14844 v 0.24416 c 0.73172,2.68301 3.17099,4.87695 6.34179,4.87695 2.92698,0 5.61006,-2.19394 6.34182,-4.87695 v -0.24416 h 9.51171 v 9.02344 h -78.0508 z m 3.65821,13.16992 h 70.24807 l -5.61135,33.17382 h -59.27146 z m 13.41407,6.58594 1.22071,18.53711 h 5.36523 v -18.53711 z m 13.17188,0 v 18.53711 h 5.36719 v -18.53711 z m 11.70897,0 v 18.53711 h 5.36523 v -18.53711 z m 12.19533,0 v 18.53711 h 5.36523 l 0.97655,-18.53711 z" />
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg5719"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-app-ehb-teams.svg">
+  <defs
+     id="defs5713" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-125.52355"
+     inkscape:cy="120.47279"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2400"
+     inkscape:window-height="937"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5716">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08332)">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11424851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 28.919674,245.33853 a 8.4666661,8.4666661 0 0 0 -8.466667,8.46667 8.4666661,8.4666661 0 0 0 0.05323,0.86145 h 9.127093 v 7.57008 a 8.4666661,8.4666661 0 0 0 7.753006,-8.43153 8.4666661,8.4666661 0 0 0 -8.466666,-8.46667 z m 17.228423,6.35 a 5.2916664,5.2916664 0 0 0 -5.291667,5.29167 5.2916664,5.2916664 0 0 0 5.291667,5.29166 5.2916664,5.2916664 0 0 0 5.291667,-5.29166 5.2916664,5.2916664 0 0 0 -5.291667,-5.29167 z M 1.3333333e-6,256.78332 v 27.51667 H 27.516668 V 256.78332 Z M 6.3500013,261.4652 h 6.0192707 2.778125 6.019271 v 2.77813 h -6.019271 v 15.37478 H 12.369272 V 264.24333 H 6.3500013 Z m 23.2833327,2.92333 v 22.02812 h -13.95005 c 1.939475,5.26958 6.938169,9.0863 12.891717,9.23201 7.780073,-0.1904 13.935234,-6.64674 13.754206,-14.42705 v -14.42857 c 0.03008,-1.29651 -0.995389,-2.37241 -2.291847,-2.40451 z m 14.170184,0 c 0.445188,0.71649 0.697733,1.5602 0.676963,2.45465 v 14.32832 0.0501 c 0.04326,2.14104 -0.335756,4.19534 -1.056772,6.08645 0.330332,0.0392 0.666273,0.0615 1.007163,0.0615 h 0.03979 c 4.664684,0 8.446003,-3.78135 8.446003,-8.446 v -12.23698 c 0,-1.26921 -1.028833,-2.29807 -2.298039,-2.29807 z"
+       id="rect6144" />
+  </g>
+</svg>

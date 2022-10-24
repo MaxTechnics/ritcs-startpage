@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="200"
+   width="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1549"
+   sodipodi:docname="logo-app-ehb-course-service-info.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1555">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1553" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="1018"
+     id="namedview1551"
+     showgrid="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-44.901279"
+     inkscape:cy="63.993162"
+     inkscape:window-x="2553"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1549"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path1248"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:23.9983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 51.468752,0.00182368 c -15.15632,-0.09373 -27.46874,3.71875302 -27.46874,3.71875302 V 115.72061 c 0,0 23.44309,-8.07969 52.45508,0.10545 4.11935,-10.77343 10.90549,-20.243913 19.54492,-27.599633 V 19.720602 C 84.624992,4.0956197 66.624842,0.09548068 51.468752,0.00182368 Z m 97.062498,0 C 133.37515,0.09555368 115.375,4.0956197 103.99999,19.720602 v 62.636713 c 10.4516,-6.556914 22.79531,-10.357418 36.00196,-10.357418 13.20605,0 25.54798,3.801034 35.99804,10.357418 V 3.7205767 c 0,0 -12.31246,-3.81244702 -27.46874,-3.71875302 z M 16.000002,26.98425 1.15e-5,35.458858 V 149.40417 C 30.332462,135.79867 50.820332,132.2673 72.007802,139.39833 c 0.0484,-5.50897 0.75522,-10.86482 2.04884,-15.99221 -25.17668,-7.13623 -46.9403,-1.43206 -58.05664,3.54104 z m 167.999998,0 v 61.240257 c 6.49697,5.5319 11.94531,12.258483 15.99999,19.837873 V 35.458858 Z m -44.00001,53.015622 c -33.13705,0 -59.999998,26.862998 -59.999998,60.000008 0,33.13704 26.862948,60 59.999998,60 33.13701,0 60,-26.86296 60,-60 0,-33.13701 -26.86299,-60.000008 -60,-60.000008 z m 6.42187,16.500015 c 4.97151,0 9.11331,3.727563 9.11331,9.113283 0,4.97144 -4.1418,9.11523 -9.11331,9.11523 -4.97137,0 -9.11524,-4.14379 -9.11524,-9.11523 0,-4.97144 4.14387,-9.113283 9.11524,-9.113283 z m 0.41408,25.271483 c 1.65702,0 3.31427,0.41344 3.72851,1.65626 1.24282,0.82859 2.07031,2.48738 2.07031,4.14452 0,0.82862 2.6e-4,2.07027 -4.14259,16.57031 -5.38556,18.22848 -6.62695,24.44402 -6.62695,26.92971 0.41416,-0.82855 2.89958,-2.48758 8.28518,-7.45902 l 1.65623,-1.24217 5.80078,5.80078 -1.6582,1.65626 c -5.79991,5.79995 -10.35609,9.52834 -13.25586,11.18555 -3.31449,1.65713 -5.79964,2.48633 -7.87109,2.48633 -2.07145,0 -4.14391,-0.82942 -5.38673,-2.07228 -1.24279,-1.2429 -2.07032,-3.31332 -2.07032,-5.38477 0,-5.79999 3.31302,-19.05657 9.52736,-41.01366 -0.4142,0.41428 -2.07144,1.65578 -7.04296,6.21287 l -1.24218,1.24414 -6.21486,-4.97265 1.65823,-1.65623 c 4.55693,-4.97147 8.69903,-8.70005 12.42772,-10.7715 4.14286,-2.07148 7.45743,-3.31445 10.35742,-3.31445 z" />
+</svg>

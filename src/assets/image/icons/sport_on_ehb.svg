@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="200"
+   width="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1062"
+   sodipodi:docname="logo-app-ehb-stuvo-sports.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1068">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1066" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="1018"
+     id="namedview1064"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="1"
+     inkscape:cx="35.26454"
+     inkscape:cy="106.33763"
+     inkscape:window-x="2553"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1062"
+     inkscape:snap-global="true" />
+  <path
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.33824348;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 143.6875,12.604636 c -5.40478,-0.07899 -10.61134,2.033311 -14.43359,5.855396 -7.8111,7.810583 -7.8111,20.474608 0,28.285191 7.81059,7.811074 20.47456,7.811074 28.28515,0 7.8111,-7.810583 7.8111,-20.474608 0,-28.285191 -3.67964,-3.679446 -8.64845,-5.779881 -13.85156,-5.855396 z M 92.52539,21.333115 47.273439,66.585021 58.58594,77.899529 92.52734,43.960013 112.32422,63.760807 0,176.08311 11.314454,187.3975 92.52539,106.18861 121.77734,135.44253 H 80.40625 v 15.99998 h 80 L 103.83789,94.874103 123.63672,75.075314 154.74609,106.19054 200,60.936631 188.6875,49.622237 154.75391,83.555705 Z"
+     id="circle7845"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   id="svg4761"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-app-ehb-mobility-online.svg">
+  <defs
+     id="defs4763" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="57.093828"
+     inkscape:cy="99.797413"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4766">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36216)">
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.74990654;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.999998,852.36214 v 20.334 a 95.999997,79.999998 0 0 0 -87.9999999,79.666 95.999997,79.999998 0 0 0 87.9999999,79.67586 v 20.3242 H 108 v -20.334 a 95.999997,79.999998 0 0 0 88,-79.66606 95.999997,79.999998 0 0 0 -88,-79.6758 v -20.3242 z M 108,888.68444 a 79.999998,63.999995 0 0 1 72,63.6777 79.999998,63.999995 0 0 1 -72,63.61136 z m -16.000002,0.066 v 127.28906 a 79.999998,63.999995 0 0 1 -72,-63.67736 79.999998,63.999995 0 0 1 72,-63.6113 z"
+       id="rect8163"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

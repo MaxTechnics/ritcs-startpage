@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   id="svg4162"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-app-ehb-ibamaflex.svg">
+  <defs
+     id="defs4164" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="-156.12339"
+     inkscape:cy="-4.8925839"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4167">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36216)">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.99999952;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 100,852.36217 A 100,100 0 0 0 0,952.36216 100,100 0 0 0 100,1052.3622 100,100 0 0 0 200,952.36216 100,100 0 0 0 100,852.36217 Z m -38,48 c 6.6274,0 12,5.3726 12,12 0,6.6274 -5.3726,12 -12,12 -6.6274,0 -12,-5.3726 -12,-12 0,-6.6274 5.3726,-12 12,-12 z m 40,0 v 0.0151 l 6.0039,-0.002 v -0.002 -0.008 c 8.0407,4e-5 17.128,1.59062 23.7031,6.33396 6.5751,4.7438 10.9179,13.03419 10.918,22.66999 -1e-4,7.7001 -2.7783,14.53598 -7.248,19.39449 0.046,0.0265 0.093,0.0461 0.1387,0.0722 8.1126,4.51831 14.4844,13.56559 14.4844,24.89834 0,11.3331 -6.3718,20.3803 -14.4844,24.8985 -8.1126,4.51835 -18.5797,5.70735 -27.5117,5.71865 l -6.0039,0.011 v -0.011 h -16 V 900.37204 Z m 0,15.98831 v 26.38469 h 6.0039 c 5.7717,0 11.6003,-1.33519 14.3438,-3.31442 2.7435,-1.9793 4.2735,-5.3975 4.2734,-10.0566 -1e-4,-4.6594 -1.5299,-7.71999 -4.2734,-9.69929 -2.7435,-1.979 -8.5721,-3.31438 -14.3438,-3.31438 z m -48,16.0117 h 16 v 72.00002 H 54 Z m 48,26.37888 v 29.60349 h 8.0039 c 7.28,0 13.428,-1.312 17.7246,-3.7051 4.2966,-2.3928 6.2735,-5.6874 6.2735,-10.9179 -3e-4,-5.23048 -1.9769,-8.88238 -6.2735,-11.27539 -4.2966,-2.39289 -10.4446,-3.7051 -17.7246,-3.7051 z"
+       id="path1118-4" />
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 4000.741 4000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="200"
+   height="200"
+   sodipodi:docname="logo-app-kcb-chamber-music.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     id="namedview6"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="62.209253"
+     inkscape:cy="84.509975"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="px" />
+  <path
+     style="display:inline;opacity:1;fill:#ffffff;stroke:none;stroke-width:19.28614235px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 3839.0226,55.040713 3598.5624,267.21206 3372.2462,40.895857 3259.0881,154.05395 3478.3595,373.32531 3358.1291,479.4106 3145.9299,267.21206 3032.772,380.37014 l 205.1264,205.12651 -487.939,430.58685 c 42.3854,33.7891 84.9009,71.6398 127.331,114.069 42.4292,42.4301 80.2762,84.9493 114.0691,127.331 l 324.5009,-367.70877 197.8328,197.83287 113.1582,-113.15803 -204.905,-204.90497 106.086,-120.23091 211.9778,211.97778 113.1573,-113.15734 -219.0498,-219.05059 318.2846,-360.66321 z M 2991.3595,1257.4835 2254.9213,2091.9959 1915.447,1752.5217 2749.9594,1016.0835 C 2416.8911,750.51115 2089.6927,746.3219 1836.8492,924.47345 l -341.2154,240.43375 c 330.6467,392.0799 -537.48495,995.5004 -792.62985,590.9577 -596.43,459.3944 -892.1292,974.5404 -302.704,1643.0291 l 525.0139,-656.2392 339.47425,339.4743 -656.23995,525.0138 c 668.48945,589.4238 1183.63695,293.7246 1643.02995,-302.7038 -404.5412,-255.1465 198.877,-1123.2773 590.9576,-792.6306 l 240.4338,-341.2154 c 178.1508,-252.843 173.9602,-580.0398 -91.61,-913.1096 z M 608.54815,3607.1429 c -35.4571,-31.2662 -71.2407,-64.3341 -107.5778,-100.6704 -36.3363,-36.337 -69.4049,-72.1206 -100.6704,-107.5785 l -351.9612,503.6306 56.5795,56.5795 z"
+     id="path5625"
+     inkscape:connector-curvature="0" />
+</svg>

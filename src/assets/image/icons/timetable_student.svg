@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="200"
+   width="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg3816"
+   sodipodi:docname="logo-app-ehb-timetable.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3822">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3820" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1483"
+     inkscape:window-height="924"
+     id="namedview3818"
+     showgrid="false"
+     inkscape:zoom="1.18"
+     inkscape:cx="3.2429146"
+     inkscape:cy="81.966723"
+     inkscape:window-x="2246"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3816" />
+  <style
+     id="style3764"
+     type="text/css">
+	.st0{fill:#E30613;}
+	.st1{fill:#FFFFFF;}
+</style>
+  <path
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.12686825;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,8 V 24.1406 40 176 185.3867 192 H 200 V 176 15.0645 8 Z M 16,40 H 184 V 176 H 16 Z m 40,8 V 72 H 80 V 48 Z m 32,0 v 24 h 24 V 48 Z m 32,0 v 24 h 24 V 48 Z m 32,0 v 24 h 24 V 48 Z M 24,80 v 24 H 48 V 80 Z m 32,0 v 24 H 80 V 80 Z m 32,0 v 24 h 24 V 80 Z m 32,0 v 24 h 24 V 80 Z m 32,0 v 24 h 24 V 80 Z M 24,112 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z m 32,0 v 24 h 24 V 112 Z M 24,144 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z m 32,0 v 24 h 24 v -24 z"
+     id="rect7291"
+     inkscape:connector-curvature="0" />
+</svg>
