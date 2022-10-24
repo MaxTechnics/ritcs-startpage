@@ -10,7 +10,7 @@
         <!-- <a href="#">Services</a> -->
         <!-- <a href="#">Contact</a> -->
 
-        <div class="social">
+        <!-- <div class="social"> -->
           <!-- <a href="#">
             <img src="images/facebook.png" alt="" />
           </a>
@@ -23,7 +23,7 @@
             <img src="images/twitter.png" alt="" />
           </a> -->
   <!-- <a>Settings</a> -->
-		</div>
+		<!-- </div> -->
       </div>
     </nav>
   </div>
