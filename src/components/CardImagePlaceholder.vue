@@ -2,21 +2,21 @@
     <div class="card_image_placeholder" :class="{ img_placeholder_size_smol: size === 'small', img_placeholder_size_large: size === 'large' }">{{ getAcronym(this.label) }}</div>
 </template>
 
-<script lang="ts">
+<script>
 export default {
 	name: "CardImagePlaceholder",
 	props: {
 		size: {
 			type: String,
-			validator(value: string) {
+			validator(value) {
 				return ["small", "large"].includes(value);
 			},
 		},
 		label: String,
 	},
 	methods: {
-		getAcronym(string: string) {
-			return string.match(/\b(\w)/g)!.join("");
+		getAcronym(string) {
+			return string.match(/\b(\w)/g).join("");
 		},
 	},
 };
