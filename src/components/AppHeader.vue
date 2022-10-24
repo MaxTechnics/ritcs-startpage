@@ -22,7 +22,7 @@
           <a href="#">
             <img src="images/twitter.png" alt="" />
           </a> -->
-  <a>Settings</a>
+  <!-- <a>Settings</a> -->
 		</div>
       </div>
     </nav>
@@ -34,24 +34,6 @@ import img from "@/assets/image/logo-ehb-small.svg";
 </script>
 
 <style lang="scss" scoped>
-.button-12Fmur {
-	/* line-height: 0; */
-	width: 32px;
-	height: 32px;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	border-radius: 4px;
-	position: relative;
-	// color: var(--interactive-normal);
-}
-
 .nav-container {
 	position: fixed;
 	top: 0;
